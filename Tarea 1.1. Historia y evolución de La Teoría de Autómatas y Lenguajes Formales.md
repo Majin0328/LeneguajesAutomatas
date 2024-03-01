@@ -1,0 +1,21 @@
+### Tarea 1.1. Historia y evolución de La Teoría de Autómatas y Lenguajes Formales
+
+| Investigador      | Aportes                                                                                                                                                                  |
+|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Alan Turing       | - Propuso la Máquina de Turing, un modelo matemático abstracto que formaliza el concepto de algoritmo y computación.                                                      |
+|                   | - Demostró que cualquier problema computable puede ser resuelto por una máquina de Turing, estableciendo los límites de la computabilidad.                                |
+| John von Neumann  | - Contribuyó al diseño y desarrollo de la arquitectura de computadoras modernas, incluyendo el concepto de programa almacenado.                                             |
+|                   | - Propuso el concepto de autómata celular, un modelo matemático utilizado en el estudio de sistemas complejos y la simulación.                                              |
+|                   | - Su trabajo en teoría de juegos y autómatas contribuyó al desarrollo de la inteligencia artificial y la computación distribuida.                                           |
+| Stephen Kleene    | - Introdujo la notación de expresiones regulares, un formalismo matemático utilizado para describir patrones en cadenas de texto.                                            |
+|                   | - Desarrolló el concepto de funciones recursivas parciales, una formalización de la computación basada en funciones recursivas.                                            |
+| Alonzo Church    | - Propuso el Cálculo Lambda, un sistema formal para la computación basado en funciones.                                                                                    |
+|                  | - Desarrolló el concepto de función recursiva y demostró que el cálculo lambda es equivalente a la máquina de Turing en poder.                                               |
+|                  | - Su trabajo en teoría de la computación sentó las bases para el desarrollo de lenguajes de programación y compiladores.                                                    |
+| Edsger Dijkstra  | - Desarrolló algoritmos eficientes para la solución de problemas computacionales, incluyendo el algoritmo del camino más corto.                                            |
+|                  | - Introdujo el concepto de semáforos y la técnica de exclusión mutua, fundamentales en la programación concurrente y los sistemas operativos.                               |
+|                  | - Contribuyó al desarrollo de la teoría de grafos y la estructura de datos.                                                                                              |
+
+#### Conclusiones:
+
+La historia y evolución de la teoría de autómatas y lenguajes formales están marcadas por las contribuciones significativas de diversos investigadores. Desde Alan Turing, cuya Máquina de Turing sentó las bases para entender la computabilidad, hasta Edsger Dijkstra, cuyos algoritmos eficientes y conceptos en programación concurrente siguen siendo fundamentales en la informática moderna. A través de sus aportes, se ha avanzado no solo en la comprensión teórica de la computación, sino también en el desarrollo práctico de sistemas y algoritmos que han transformado nuestra manera de interactuar con la tecnología. La interdisciplinariedad de la teoría de autómatas ha sido clave en áreas tan diversas como la inteligencia artificial, la simulación de sistemas complejos y el diseño de lenguajes de programación, mostrando su importancia continua en el panorama actual de la informática y la ciencia computacional.
