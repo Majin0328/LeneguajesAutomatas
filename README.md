@@ -1,11 +1,11 @@
 ### Validación de Contraseña y Nombre de Usuario
 
-##Este repositorio contiene expresiones regulares para validar contraseñas fuertes y nombres de usuario en aplicaciones web.
+## Este repositorio contiene expresiones regulares para validar contraseñas fuertes y nombres de usuario en aplicaciones web.
 
-#Expresión Regular para Contraseña Fuerte
+# Expresión Regular para Contraseña Fuerte
 La expresión regular para validar una contraseña fuerte es la siguiente:
 
-##^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$
+## ^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$
 
 ![Contrasena](https://github.com/Majin0328/LeneguajesAutomatas/assets/160747765/1c849ae0-f148-4d9f-b322-1c469f398ffb)
 
