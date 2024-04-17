@@ -20,10 +20,10 @@ Explicación:
 caracteres especiales mencionados anteriormente, y debe tener una longitud mínima de 8 caracteres.
 $: Indica el final de la cadena.
 
-#Expresión Regular para Nombre de Usuario
+### Expresión Regular para Nombre de Usuario
 La expresión regular para validar un nombre de usuario es la siguiente:
 
-##^[a-zA-Z0-9_-]{3,16}$
+## ^[a-zA-Z0-9_-]{3,16}$
 
 ![User](https://github.com/Majin0328/LeneguajesAutomatas/assets/160747765/65d33f6e-77af-495b-aae9-a6f02b85af55)
 
