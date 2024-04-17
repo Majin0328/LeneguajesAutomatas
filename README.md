@@ -33,3 +33,5 @@ Explicación:
 [a-zA-Z0-9_-]: Permite letras mayúsculas y minúsculas, dígitos, y los caracteres guion medio y bajo.
 {3,16}: El nombre de usuario debe tener una longitud de entre 3 y 16 caracteres.
 $: Indica el final de la cadena.
+
+#### Fin
