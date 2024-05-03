@@ -21,6 +21,5 @@ Cuando un usuario intenta iniciar sesión y proporciona una contraseña, esta co
 
 #### Veamos ahora el diagrama de transicion hecho con fines teoricos:
 
-![image](https://github.com/Majin0328/LeneguajesAutomatas/assets/160747765/47285458-adf9-4c80-84ef-33c205b27dde)
+![image](https://github.com/Majin0328/LeneguajesAutomatas/assets/160747765/a186c490-6976-48e7-ad23-d50c27af8b15)
 
- 
